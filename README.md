@@ -2,7 +2,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArushNo1&show_icons=true&bg_color=23292c&text_color=f1f2f3&title_color=93c763&icon_color=ec7600&border_color=efc210&size_weight=0.3&count_weight=0.5&layout=compact)](https://arushbodla.vercel.app)
 <br><br><br>
 [![EcoSpark](https://github-readme-stats.vercel.app/api/pin/?username=CognicadeStudios&repo=EcoSpark&bg_color=23292c&text_color=f1f2f3&title_color=93c763&icon_color=ec7600&border_color=efc210)](https://github.com/CognicadeStudios/EcoSpark)
-[![EcoSpark](https://github-readme-stats.vercel.app/api/pin/?username=2900xt&repo=WinterWarzone&bg_color=23292c&text_color=f1f2f3&title_color=93c763&icon_color=ec7600&border_color=efc210)](https://github.com/2900xt/WinterWarzone)
+[![WinterWarzone](https://github-readme-stats.vercel.app/api/pin/?username=2900xt&repo=WinterWarzone&bg_color=23292c&text_color=f1f2f3&title_color=93c763&icon_color=ec7600&border_color=efc210)](https://github.com/2900xt/WinterWarzone)
+[![ITCS](https://github-readme-stats.vercel.app/api/pin/?username=ArushNo1&repo=ITCS&bg_color=23292c&text_color=f1f2f3&title_color=93c763&icon_color=ec7600&border_color=efc210)](https://github.com/ArushNo1/ITCS)
+[![XL Chess](https://github-readme-stats.vercel.app/api/pin/?username=ArushNo1&repo=XLChess&bg_color=23292c&text_color=f1f2f3&title_color=93c763&icon_color=ec7600&border_color=efc210)](https://github.com/ArushNo1/XLChess)
+[![Competitive Programming](https://github-readme-stats.vercel.app/api/pin/?username=ArushNo1&repo=competitive-programming&bg_color=23292c&text_color=f1f2f3&title_color=93c763&icon_color=ec7600&border_color=efc210)](https://github.com/ArushNo1/competitive-programming)
+[![CP-templates](https://github-readme-stats.vercel.app/api/pin/?username=ArushNo1&repo=cp-templates&bg_color=23292c&text_color=f1f2f3&title_color=93c763&icon_color=ec7600&border_color=efc210)](https://github.com/ArushNo1/cp-templates)
 
 <!--
 **ArushNo1/ArushNo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
