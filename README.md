@@ -1,5 +1,5 @@
-[![Arush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArushNo1&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArushNo1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Arush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArushNo1&hide=issues&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArushNo1&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
