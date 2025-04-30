@@ -8,6 +8,8 @@
 <br><br>
 
 <!--
+#Github Read Me stats by anuraghazra
+
 <a href="https://github.com/CognicadeStudios/EcoSpark">
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CognicadeStudios&repo=EcoSpark&bg_color=23292c&text_color=f1f2f3&title_color=93c763&icon_color=ec7600&border_color=efc210&cache_seconds=1" />
 </a>
