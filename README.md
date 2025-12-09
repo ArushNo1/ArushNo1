@@ -1,4 +1,4 @@
-<a href="https://arushbodla.vercel.app">
+<!--<a href="https://arushbodla.vercel.app">
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ArushNo1&hide=issues&show_icons=true&bg_color=23292c&text_color=f1f2f3&title_color=93c763&icon_color=ec7600&border_color=efc210" />
 </a>
 <a href="https://arushbodla.vercel.app">
